@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "ignite-gym-history",
+    "slug": "ignite-gym-history",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#121214",
+    "splash": {
+      "backgroundColor": "#121214"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#121214"
+      }
+    }
+  }
+}
